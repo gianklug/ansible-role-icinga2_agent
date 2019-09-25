@@ -1,5 +1,5 @@
 ---
 icinga2_agent_packages:
-  - icinga2
-  - icinga2-selinux
+  - icinga2-2.10.5
+  - icinga2-selinux-2.10.5
   - nagios-plugins-all
